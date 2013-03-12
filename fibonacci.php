@@ -14,7 +14,7 @@
 #	and a DP fibonacci would be better off just using an array of stored values.
 
 
-# memcahed fibonacci - DP approach
+# memcached fibonacci - DP approach
 function cache_fib($n,$cache){
 
 	# base case
